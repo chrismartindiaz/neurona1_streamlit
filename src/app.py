@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas as pdç
+import pandas as pd
 
 # INSERTAR IMAGEN
 
