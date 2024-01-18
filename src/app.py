@@ -3,7 +3,7 @@ import pandas as pd
 
 # INSERTAR IMAGEN
 
-st.image('./neurona.jpg')
+#st.image('./neurona.jpg')
 
 st.title('¡Hola neurona!')
 
